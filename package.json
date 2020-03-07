@@ -1,0 +1,14 @@
+{
+  "name": "@olton/reset-css",
+  "version": "1.0.0",
+  "description": "CSS file that provides cross-browser consistency in the default styling of HTML elements",
+  "main": "reset.css",
+  "repository": "https://github.com/olton/reset-css",
+  "bugs": "https://github.com/olton/reset-css/issues",
+  "author": "Sergey Pimenov",
+  "license": "MIT",
+  "files": [
+    "reset.css",
+    "LICENSE"
+  ]
+}
